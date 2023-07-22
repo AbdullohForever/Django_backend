@@ -1,4 +1,1 @@
-pip install ...
-
-django
-environs
+pip install django environs
